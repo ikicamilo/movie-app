@@ -1,0 +1,14 @@
+.navbar {
+  background-color: #ffffff;
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 40px;
+}
+
+.navbar-title {
+  font-family: Lato;
+  font-size: 28px;
+  color: #4d4d4d;
+}
